@@ -56,5 +56,33 @@ This project not only allowed me to explore Figma’s collaboration tools in dep
 In conclusion, this assignment helped me develop hands-on experience in collaborative design workflows. By simulating a live design session with a teammate, I was able to practice both design skills and soft skills like communication, feedback handling, and documentation. It reinforced Figma's role not just as a design tool, but as a complete platform for design collaboration.
 
 
+# OUTPUT :
+
+<!-- Uploading "Screenshot 2025-07-19 201556.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 201936.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 202851.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 202913.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 205412.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 205413.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 205414.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 205820.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 205955.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 210353.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 210526.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 210535.png"... -->
+
+<!-- Uploading "Screenshot 2025-07-19 211009.png"... -->
+
 
 
