@@ -58,31 +58,29 @@ In conclusion, this assignment helped me develop hands-on experience in collabor
 
 # OUTPUT :
 
-<!-- Uploading "Screenshot 2025-07-19 201556.png"... -->
 
-<!-- Uploading "Screenshot 2025-07-19 201936.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/38c32cef-dfca-4604-9e87-89f9a6aa9417" />
 
-<!-- Uploading "Screenshot 2025-07-19 202851.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1e88a16c-4ebf-4afc-8fa1-ea5acf56dfbe" />
 
-<!-- Uploading "Screenshot 2025-07-19 202913.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/61641bfc-39f6-4be9-974e-264173befc36" />
 
-<!-- Uploading "Screenshot 2025-07-19 205412.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f91e957e-f701-4077-ad6f-839caa835b60" />
 
-<!-- Uploading "Screenshot 2025-07-19 205413.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f9679ae7-dac2-45f7-8d57-eb3935a22ebe" />
 
-<!-- Uploading "Screenshot 2025-07-19 205414.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/321ff51c-154b-4114-969b-dbfccb4c92c1" />
 
-<!-- Uploading "Screenshot 2025-07-19 205820.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/201e0bec-2773-4ce0-a34f-cc1dddbdb3b8" />
 
-<!-- Uploading "Screenshot 2025-07-19 205955.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/42fdacf4-8ac0-4b53-acc5-0fb4f4d203b0" />
 
-<!-- Uploading "Screenshot 2025-07-19 210353.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/56aea2b9-1e99-4804-887e-9fc8a16559ec" />
 
-<!-- Uploading "Screenshot 2025-07-19 210526.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8d5dcfaf-6313-4bd1-81f4-d4292698dcfa" />
 
-<!-- Uploading "Screenshot 2025-07-19 210535.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1594fd81-3947-4345-92ca-decd0465dfce" />
 
-<!-- Uploading "Screenshot 2025-07-19 211009.png"... -->
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/3b13f6c5-6f15-4bf0-959a-f9fe39604edc" />
 
-
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ce8383c1-4bf5-4b48-8dcb-f1ba5eb1fd0f" />
